@@ -14,10 +14,10 @@ As you know, this repository is public due to private repositories are not free 
 * Design
 * UnityProjects
 
-Be free to create more folders or subfolders.
+Feel free to create more folders or subfolders.
 
 
 ## Commits
-When you commit please specify the kind of files are you uploading or modifying and a descriptions to make it easy to know how we are going.
+When you commit please specify the kind of files are you uploading or modifying and a description to make it easy to know how we are going.
 
 Example: Code - Modified the movement script, solved jump and rotate bugs. 
